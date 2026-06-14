@@ -17,7 +17,7 @@ def main_game(level_name, difficulty):
         return maze_game("level_" + level_name)
     
 
-# levels: 1(test level), generated
+# levels: 1(test level), 2, generated
 level_name = "generated"
 
 # difficulties: easy, medium, hard, extreme
